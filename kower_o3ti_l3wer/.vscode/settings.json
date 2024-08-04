@@ -1,9 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "unistd.h": "c",
-        "ft_abs.h": "c",
-        "ft_stock_str.h": "c",
-        "stdio.h": "c"
-    }
-}
