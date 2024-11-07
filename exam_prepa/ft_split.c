@@ -112,7 +112,7 @@ char	**ft_split(char *str)
 
 int main(void)
 {
-    char *str = "Hello   World    42network		iguiji	";
+    char *str = "Hello   World    42network		Dreuiche	";
 	char **array;
 	array = ft_split(str);
 	int i = 0;
